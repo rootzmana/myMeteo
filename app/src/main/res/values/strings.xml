@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyMeteo</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">MyMeteo</string>
+    <string name="action_addItem">add item</string>
+    <string name="action_deleteMarker">deleteMarker</string>
+    <string name="action_secondaryMenu">Secondary menu</string>
+    <string name="item_deleted">A city has been deleted</string>
+    <string name="undo">UNDO</string>
+    <string name="network_on">Network ON</string>
+    <string name="network_off">Network OFF</string>
+    <string name="enable_refresh">Enable refresh data button</string>
+    <string name="Refresh_button_disabled">Refresh Button is disabled</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title">Add a city</string>
+    <string name="dialog_message">Please enter a city name (in english)</string>
+    <string name="wait_until">You have to wait 5 mn between each refreshing</string>
+    <string name="add_this_town">Add this town ?</string>
+    <string name="add_favorite">Added as favorite city</string>
+</resources>
